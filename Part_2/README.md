@@ -1,3 +1,15 @@
+# Session_4_assignments PART 2
+# Group: EVA6 - Group 3
+
+## Members
+1. Muhsin Abdul Mohammed - muhsin@omnilytics.co 
+2. Nilanjana Dev Nath - nilanjana.dvnath@gmail.com
+3. Pramod Ramachandra Bhagwat - pramod@mistralsolutions.com
+4. Udaya Kumar NAndhanuru - udaya.k@mistralsolutions.com
+------
+
+### Discussion points
+
 - 99.47% validation accuracy achieved at EPOCH 19 with a total parameter of 16,452.
 - Have used BN, Dropout, a Fully connected layer, have used GAP. 
 - Dropout value is set to 0.1.
