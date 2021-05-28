@@ -76,3 +76,9 @@ The activated neurnns producess output e1 and e2 and finally give the output e_t
 The different weights are calculated based on below formula:
 
 New_weight = Previous_weight - (Learning_rate * Derivative of Previous_weight)
+
+
+#### Excel sheet screen shots
+
+![csv_screenshot_1](https://github.com/eva-6-3/Session_4_assignments/blob/main/Part_1/resources/csv_screenshot_1.png)
+![csv_screenshot_lr](https://github.com/eva-6-3/Session_4_assignments/blob/main/Part_1/resources/csv_screenshot_lr.png)
