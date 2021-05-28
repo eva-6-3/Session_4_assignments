@@ -3,9 +3,11 @@
 - Dropout value is set to 0.1.
 - Training batch size is 128.
 - Training is done on GPU.
-- 
 
-training logs (validation data) -- 
+### Model Summary
+![Model Summary](https://github.com/eva-6-3/Session_4_assignments/blob/main/Part_2/resources/model_summary.png)
+
+### training logs (validation data) -- 
 ```
 EPOCH : [1 / 19] 	|| 	Accuracy - 98.37  	 Loss - 0.05839413802623749
 EPOCH : [2 / 19] 	|| 	Accuracy - 98.74  	 Loss - 0.03946630227714777
@@ -28,5 +30,6 @@ EPOCH : [18 / 19] 	|| 	Accuracy - 99.44  	 Loss - 0.018060943693295122
 EPOCH : [19 / 19] 	|| 	Accuracy - 99.47  	 Loss - 0.018060448794264813
 ```
 
-validation acc vs loss graph -- 
-
+### validation acc vs loss graph -- 
+![Validation Loss](https://github.com/eva-6-3/Session_4_assignments/blob/main/Part_2/resources/Validation_loss.png)
+![Validation Accuracy](https://github.com/eva-6-3/Session_4_assignments/blob/main/Part_2/resources/Validation_accuracy.png)
