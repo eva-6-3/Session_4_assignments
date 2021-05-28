@@ -1,4 +1,12 @@
-# Assignment 4
+# Session_4_assignments PART 1
+# Group: EVA6 - Group 3
+
+## Members
+1. Muhsin Abdul Mohammed - muhsin@omnilytics.co 
+2. Nilanjana Dev Nath - nilanjana.dvnath@gmail.com
+3. Pramod Ramachandra Bhagwat - pramod@mistralsolutions.com
+4. Udaya Kumar NAndhanuru - udaya.k@mistralsolutions.com
+------
 
 ## Introduction
 
